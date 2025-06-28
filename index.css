@@ -1,0 +1,121 @@
+    #carouselExample
+    {
+     
+        height: 400px;
+        background-color:rgb(226, 227, 217);
+    }
+ 
+   .tex
+   {
+    
+    margin-top: 130px;
+    color: rgb(169, 125, 125);
+    font-style: italic;
+    justify-content: center;
+   }
+   #unlock
+  {
+    text-shadow:1px 3px rgb(172, 169, 169);
+  }
+  #p
+  {
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: italic;
+  }
+  .tst
+  {
+    background-color: rgb(128, 128, 125);
+   /* margin-top: 250px; */
+  }
+.sort
+{
+    margin-top: 40px;
+    /* margin-bottom: 100px; */
+    background-color: rgb(152, 81, 81);
+}
+.sort1
+{
+    margin-top: 10px;
+}
+#carouselExam
+{
+transition: 1s;
+}
+#casual
+{
+ margin-left:55px;
+ text-shadow:1px 1px rgb(243, 243, 243);
+}
+#casual:hover
+{
+transform:scale(1.1);
+}
+#suit
+{
+margin-bottom:10px;
+text-shadow:1px 1px rgb(243, 243, 243);
+}
+#suit:hover
+{
+transform:scale(1.1);
+}
+#women
+{
+margin-left:120px;
+text-shadow:1px 1px rgb(243, 243, 243);
+}
+#women:hover
+{
+transform:scale(1.1);
+}
+#saree
+{
+margin-left:40px;
+text-shadow:1px 1px rgb(243, 243, 243);
+}
+#saree:hover
+{
+transform:scale(1.1);  
+}
+.row1
+{
+ justify-content:space-evenly;
+ 
+}
+.towel:hover
+{
+transform: scale3d(3);
+transform: scaleZ(1.1);
+filter: drop-shadow(0 0 10px rgb(120, 119, 120));
+
+}
+.socks:hover
+{
+transform: scale3d(3);
+transform: scaleZ(1.1);
+filter: drop-shadow(0 0 10px rgb(120, 119, 120));
+}
+.cap:hover
+{
+transform: scale3d(3);
+/* transform: scaleZ(1.1); */
+filter: drop-shadow(0 0 10px rgb(120, 119, 120));  
+}
+.hand:hover
+{
+transform: scale3d(3);
+/* transform: scaleZ(8); */
+filter: drop-shadow(0 0 10px rgb(120, 119, 120));  
+}
+.footer
+{
+height: 50px;
+background-color: gray;
+}
+#foot
+{
+background-color: gray;
+justify-content: space-evenly;
+display: flex;
+}
+
